@@ -29,7 +29,7 @@ This project focuses on Sales and Financial Data Analysis using Microsoft Excel 
 ## 📌 Key Findings from the Reports:
 
 ### **1️⃣ Customer Performance Report** 📄[View Report](https://github.com/Punit-Kumawat/Excel-Sales-Finance-Analytics-Project/blob/main/Customer%20Performance%20Report.pdf)
-- Amazon, Flipkart, and Atliq eStore recorded the highest growth.
+- Amazon, AtliQ Exclusive, and Atliq eStore recorded the highest growth.
 - Total sales in 2021 reached **598.9M INR**, a **304.5% increase** from 2020.
 - **Logic Stores** showed the highest growth rate at **515.2%**.
 
@@ -44,7 +44,7 @@ This project focuses on Sales and Financial Data Analysis using Microsoft Excel 
 - **India recorded the highest sales at 161.3M USD.**
 
 ### **4️⃣ New Products - 2021** 📄[View Report](https://github.com/Punit-Kumawat/Excel-Sales-Finance-Analytics-Project/blob/main/New%20Products%20-%202021.pdf)
-- **AQ Qwerty (22M USD), AQ Trigger (20.7M USD), and AQ Maxima Ms (13.7M USD)** were the top-selling new products.
+- **AQ Qwerty (22M USD), AQ Trigger (20.7M USD), and AQ Gen Y (19.5M USD)** were the top-selling new products.
 - Total new product sales in 2021 amounted to **176.2M USD**.
 
 ### **5️⃣ P&L Statement by Fiscal Year** 📄[View Report](https://github.com/Punit-Kumawat/Excel-Sales-Finance-Analytics-Project/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
@@ -73,7 +73,7 @@ This project focuses on Sales and Financial Data Analysis using Microsoft Excel 
 - **Total sales of the top 10 products in 2021 reached 52M USD.**
 
 ### **🔟 Top and Bottom Products Report** 📄[View Report](https://github.com/Punit-Kumawat/Excel-Sales-Finance-Analytics-Project/blob/main/Top%20and%20Bottom%20Products.pdf)
-- **AQ Master Wired X1 (4.15M Units) and AQ Master Wireless X1 (4.12M Units) were the best-selling products.**
+- **AQ Master Wired X1 Ms (4.15M Units) and AQ Master Wireless X1 Ms (4.12M Units) were the best-selling products.**
 - **AQ Home Allin1 Gen 2 (8,854 Units) was among the lowest-selling products.**
 - **The bottom 5 products had a total sales volume of only 174K, whereas the top 5 products collectively sold over 19M units.**
 
