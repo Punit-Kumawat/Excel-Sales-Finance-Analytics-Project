@@ -100,3 +100,7 @@ This project focuses on Sales and Financial Data Analysis using Microsoft Excel 
 ## Conclusion
 This project demonstrates the power of **Microsoft Excel** in analyzing sales and financial data. The comprehensive reports equip businesses with the knowledge to make **data-driven decisions** and enhance **profitability**.
 
+📫 Connect with me:
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/punitkumawat/)
+🔗 [GitHub Repository](https://github.com/Punit-Kumawat/Excel-Sales-Finance-Analytics-Project)
